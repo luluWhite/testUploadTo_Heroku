@@ -1,0 +1,19 @@
+{
+  "name": "test-upload-apppj-to-heroku",
+  "version": "0.0.1",
+  "description": "test upload appPJ to heroku -- 7thJuly2016",
+  "main": "index.js",
+  "scripts": {
+    "test": "haha 7thJuly2016"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luluWhite/testUploadTo_Heroku.git"
+  },
+  "author": "Collin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luluWhite/testUploadTo_Heroku/issues"
+  },
+  "homepage": "https://github.com/luluWhite/testUploadTo_Heroku#readme"
+}
